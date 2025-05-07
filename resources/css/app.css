@@ -1,0 +1,11 @@
+@import '@fontsource/montserrat';
+@import '@fontsource/nunito';
+@import '@fontsource/poppins';
+@import '@fontsource/dm-sans';
+@import '@fontsource/inter';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* kuning logo: ##FCA84C */
